@@ -9,7 +9,6 @@ This repository hosts materials which describe the structure and operation this 
 * [Course Jupyter server](https://jupyter.cs.allegheny.edu)
 * [Office hours appointment calendar](https://chompe.rs/office-hours)
 * [Technical Leader Office Hours](https://chompe.rs/tl-office-hours)
-* [Student Support Ticket system](https://chompe.rs/support-tickets)
 
 ### Discord
 
