@@ -32,14 +32,115 @@ I look forward to establishing the bounaries of the map of this journey with you
 
 ## Contract stipulations
 
+### The "Basic Rule"
+
+* All students who meet the covenants of this contract will earn an individual letter grade of `B` in this course
+
+#### Grades higher than the Basic Grade
+
+The instructor reserves the right to award particuarly accomplished work a `+` mark, indicating excellent or advanced implementations of work.
+
+##### `A` grades
+
+###### `A+` grade
+
+* A student who:
+   * Completes all assignments in full and on time
+   * Has `2` or more `+` marks awarded per week (excepting the course project)
+   
+will receive an `A` in the course.
+
+###### `A-` grade
+
+* A student who:
+   * Completes all assignments in full and on time
+   * Has `1` or more `+` marks awarded per week (excepting the course project)
+   
+will receive an `A` in the course.
+
+##### `B+` grade
+
+* A student who:
+   * Completes all assignments in full and on time
+   * Has `1` or more `+` marks awarded across _all weeks_
+   
+will receive a `B+` in the course.
+
+#### Grades lower than the Basic Grade
+
+Violating contract provisions below will result in grade penalties specified in each section.
+
+### The "Rules Rule"
+
+* Convenants in this contract may be changed following an open course discussion about the proposed change(s)
+* Any changes will then be put to a vote. If a vote succeeds with a majority (50% + 1) outcome supporting the measure(s) proposed, the change will be made
+  * This applies to all portions of the contract _except_ for the "Basic Rule" and this rule
+  * In addition, the professor reserves the right to veto a proposed change if it demonstrably undermines the academic integrity of the course or is superceded by policies within the college's academic standards or handbook
+
 ### Participation
+
+`TODO: Determine constituents of "participation"`
+
+#### Course platforms
+
+`TODO: Determine etiquette of course platforms`
+
+#### Using office hours
+
+`TODO: Establish best practices for using office hours`
+
+#### Attendance
+
+All students are expected to attend a majority of sessions in the course. However, in reality, we understand that situations arise which make attendance impossible. Especially given the ongoing global pandemic, it is impossible to assert that "perfect attendance" be our metric. With this context in mind:
+
+* Course members are expected to attend all course sessions unless the instructor is otherwise notified
+  * Students missing more than `2` sessions over the course of the module will have their contract-based letter grade reduced by _half_ a letter grade for every absence beyond the `2`nd.
+* The instructor may also cancel class sessions given that proper notice is given via Discord channel message
 
 ### Assignments
 
+* Assignments will be given for the week during the first course session of the week
+* Assignments will be due on the following Sunday at 11:59p
+
+#### Missing assignments
+
+In this course there are two types of missing assignments:
+
+1. Weekly assignment repositories submitted missing entire days of work ("Missing" assignments)
+2. Entire weekly assignment repositories not submitted ("Ignored" assignments)
+
+##### "Missing" assignments
+
+* Any "Missing" assignments will count for half a letter grade against a student's final course grade
+
+##### "Ignored" assignments
+
+* Any "Ignored" assignments automatically constitute a failing grade in the course
+
+#### Grading
+
+* Assignments will be graded on a _completion_ basis
+  * Here, "completion" means:
+    * Submission is made on or before due date/time
+    * Submission features working code and/or complete documentation
+    * At least 90% of all grading "checks" satisfied
+* Turning in _incomplete_ work will result in a student earning 90% of possible assignment points _multiplied by_ the amount of checks completed
+   * "Incomplete" should be taken to mean:
+     * Su
+* In the event that there are "bugs" with grader criteria, the instructor will assess completion status based on known issues
+  * the instructor will make every effort to remedy the failiing check before the assignment due date
+  * e.g. if, during assignment evaluation, a check fails for every student due to a technical issue, the check is considered an invalid grading criteria
+  
 ### Group Contribution
 
-#### Group assignments
+This course works due to the trust the instructor places in each team becoming a collaborative home for all students. However, there is a fine line between collaboration and academic dishonesty.
 
-#### Use of collaboration on individual assignments
+#### Groupwork assignments
+
+#### Teamwork assignments
 
 ### The "Gimme"
+
+
+
+### Exceptions to the contract
