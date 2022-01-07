@@ -9,6 +9,7 @@ This repository hosts materials which describe the structure and operation this 
 * [Course Jupyter server](https://jupyter.cs.allegheny.edu)
 * [Office hours appointment calendar](https://chompe.rs/office-hours)
 * [Technical Leader Office Hours](https://chompe.rs/tl-office-hours)
+* [Course Contract](CODE_OF_CONDUCT.md)
 
 ### Discord
 
@@ -105,36 +106,9 @@ By the end of this course, you will be able to:
 * Learn to adapt to the important, but often accidental, aspects of writing code
 * Demonstrate the ability to communicate, plan, and collaborate as an integral part of the creative process
 
-### Grading
-
-This course is governed by a community-developed grading contract. For many of you, this may be your first experience with a "contract graded" course. Essentially, this means that meeting certain sets of expectations for assignment completion and participation will guarantee pre-determined grading outcomes. For example, in this course, simply completing all basic coursework (irrespective of "correctness" or "quality") and participating earnestly in course activities will result in a final grade of `C`. 
-
-Of course, you will have various chances to increase your earned grade to reflect the amount of effort invested and and technical skill developed over the duration of the class. While the stipulations of the contract will be determined in the initial course sessions, the principle behind this approach encourages you to take risks and fully commit to work which is technically and intellectually demanding. Our contract gives you the necessary basis to, for lack of a better phrase, "try things" without fear of failure.
-
 #### Assignments
 
 All course assignments are assigned and evaluated using the GitHub platform. I will only assess work correctly deposited there. While we use our course Jupyter for _doing_ the work, the final versions _must_ be on GitHub. Though the previous set of statements implies the following, I state it explicitly here to avoid misunderstanding: I _will not_ grade work left on our course Jupyter server.
-
-##### Late work
-
-Due to the compact nature of the timeline for this course, I cannot accept late work. To be equitable in this respect, due dates are somewhat open and, save for quizzes, are not same- or next-day. Any work either half complete or not available at time of assessment will be assessed as final. In the event that I've missed some part of an assignment that was completed on time, I will gladly reconsider assessment for a given assignment where this is the case.
-
-#### Class participation
-
-Participation serves as one of the main vehicles for success in a class like this. The term "participation" means _actively engaging with and sincerely attempting completion of class activities_, of which there may be multiple in a given week. Due dates for class activties will be given at the time of assignment along with activity guidelines. In some cases (especially in the opening weeks of the course), completing activities is crucial to being able to progress in the class. 
-
-Each activity and assignment includes Participation points. In addition, I expect that activities and/or worksheets given during these sessions will be completed by the deadlines indicated on materials distributed during the session. These due dates/times will be flexible enough to allow students to complete work at a reasonable pace (i.e. items will never be due at the literal end of class). 
-
-These activities are the main mechanic I use to assign participation grades, which encompass the many different types of participation enrollment in this course implies. The following list contains many (though not all) of the interpretations of "participation" in this course:
-
-* presence
-* attentiveness
-* inquiry
-* response
-* achievement
-* completion
-
-As the above list is, admittedly, unexhaustive, there are many ways that your work in this class is rewarded by performing any combination or extension of the above areas. Do not feel that you always need to exhibit _all_ of them; that's probably impossible.
 
 #### Assessments
 
