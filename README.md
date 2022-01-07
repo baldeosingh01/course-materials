@@ -40,6 +40,18 @@ These sessions will give you as much hands-on time as possible to work through s
 |2    |Individual digital activities                   |
 |3    |Team-based digital activities                   |
 
+##### "Analog" activities
+
+Beyond the first session, this course will use "Analog" games to draw parallels between computational concepts and _embodied knowledge_.
+
+##### Individual digital activities
+
+You will also have the opportunity to learn and practice skills in a programmatic context on an individual basis. These assignments will focus on details of the larger concepts for a given course topic.
+
+##### Team-based digital activities
+
+As a capstone to course sessions, you will work as part of your team to work through a problem collaboratively. However, submissions to these problems are expected on an _individual basis_ and should represent individual effort, even if teams are allowed to develop a conceptual approach.
+
 #### Friday sessions
 
 Our Friday sessions take the place of a lab session in a typical semester. These sessions will build on the smaller pieces of work completed throughout the week. These are individual assignments, though you will come to rely on your table/team for insights, discussion, and troubleshooting.
@@ -106,6 +118,10 @@ By the end of this course, you will be able to:
 * Learn to adapt to the important, but often accidental, aspects of writing code
 * Demonstrate the ability to communicate, plan, and collaborate as an integral part of the creative process
 
+### Evaluation
+
+This course's evaluation and, eventually, grades, are governed by the [Course Contract](CODE_OF_CONDUCT.md).
+
 #### Assignments
 
 All course assignments are assigned and evaluated using the GitHub platform. I will only assess work correctly deposited there. While we use our course Jupyter for _doing_ the work, the final versions _must_ be on GitHub. Though the previous set of statements implies the following, I state it explicitly here to avoid misunderstanding: I _will not_ grade work left on our course Jupyter server.
@@ -116,9 +132,13 @@ Any assessment in this course is open book, open note, and "open code." Of cours
 
 ##### Quizzes
 
-Quizzes will be given as part of a given week's required [media](#media). These quizzes will not _require_ you to code, though you may find that using our class coding platform in tandem with the quiz helps you answer questions. The purpose of these quizzes is both for you to self-assess your progress and for me to check in on how the class is progressing as a whole. If a quiz indicates that the class might benefit from a more focused live session on a topic, I will offer one during a Friday "Rewind" session.
+Quizzes will be given as the first item on our agenda at every course after the first and until the beginning of the course project.
 
-These quizzes are due by `8:00 AM` the day following their assignment. I ask these to be completed by this time to have an understanding of how _you understand_ the material covered. Each quiz will be worth `10` points, and may reflect cumulative content. At the end of the semester, I will "drop" the lowest `2` scores.
+These quizzes will not _require_ you to code, though you may find that using our class coding platform in tandem with the quiz helps you answer questions. The purpose of these quizzes is both for you to self-assess your progress and for me to check in on how the class is progressing as a whole.
+
+##### Team points
+
+Though likely a somewhat arbitrary mechanic, this course also employs team points. These are awarded for performance in Analog Activities and on Quizzes. As part of finalizing the course contract, the class will determine the appropriate reward for course points and criteria for qualification for that reward.
 
 ##### Course project
 

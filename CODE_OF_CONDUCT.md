@@ -121,7 +121,7 @@ In this course there are two types of missing assignments:
 
 * Any "Ignored" assignments automatically constitute a failing grade in the course
 
-#### Grading
+#### Evaluation
 
 ##### Complete assignments
 
@@ -146,6 +146,18 @@ In this course there are two types of missing assignments:
 * In the event that there are "bugs" with grader criteria, the instructor will assess completion status with known issues in mind
   * The instructor will make every effort to remedy the failiing check before the assignment due date
   * However, if during assignment evaluation, a check fails for every student due to a technical issue, the check is considered an invalid grading criteria
+  
+##### Quizzes
+
+This course employs quizzes to better understand the aggregate accumuluation of knowledge across _all_ course members. These assessments will closely follow content introduced in video lessons. 
+
+Being that this course is not graded, per se, this contract effects the following criteria:
+
+* If a team's quiz average is above `80%`, the team will receive `5` team course points
+
+##### Course points
+
+`TODO: Determine appropriate reward for a quanta or absolute winner of course points`
 
 ### Group Contribution
 
