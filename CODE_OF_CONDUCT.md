@@ -3,10 +3,9 @@
 ## A word from the instructor
 
 > In most learning situations in life outside of school, grades are never given.
-The learning that occurs in Kung Fu dojos, or cooking, dance, or yoga studios
+The learning that occurs in cooking, dance, or yoga studios
 do not use any grading. Why? In these “studio” cases, it seems meaningless to
-give students grades, and yet without any grades, those students get better at
-yoga, dance, and cooking.
+give students grades, and yet without any grades, those students get better at yoga, dance, and cooking.
 >
 > Asao Inoue, "160W's Grading Contract"
 
@@ -123,19 +122,21 @@ In this course there are two types of missing assignments:
 
 #### Evaluation
 
+Below, the term "run" should be taken to mean that the program executes without error.
+
 ##### Complete assignments
 
 * Assignments will be graded on a _completion_ basis
   * Here, "completion" means:
     * Submission is made on or before due date/time
     * Submission features working code and/or complete documentation
-      * Here, "working" should be taken to mean "run" -- it can still produce incorrect results, but must _run_
+      * Here, "working" should be taken to mean "run" -- programs can still produce incorrect results, but must _run_
       * Documentation also encompasses reflective writing
     * At least 80% of all grading "checks" satisfied
     
 ##### Incomplete assignments
 
-* Turning in _incomplete_ work will count as a ["Missing" assignment][#Missing-assignments]
+* Turning in _incomplete_ work will count as a ["Missing" assignment](#Missing-assignments)
    * "Incomplete" should be taken to mean:
      * Submission not made on or before due date/time
      * Submission does not feature "working" code and/or has incomplete documentation
@@ -159,15 +160,17 @@ Being that this course is not graded, per se, this contract effects the followin
 
 `TODO: Determine appropriate reward for a quanta or absolute winner of course points`
 
-### Group Contribution
+### Co-op Contribution
 
-This course works due to the trust the instructor places in each team becoming a collaborative home for all students. However, there is a fine line between collaboration and academic dishonesty.
+This course works due to the trust the instructor places in each team becoming a collaborative home for all students. However, there is a fine line between collaboration and academic dishonesty. Here, we define that that line is and what general consequences (positive or negative) are under it.
 
-#### Groupwork assignments
+#### Co-op assignments
+
+For all co-op assignments, members will fill out a post-assignment assessment to determine individual level of effort (LoE).
 
 `TODO: Codify contribution behavior for assignments which rely on collective group effort`
 
-#### Teamwork/Collborative assignments
+#### Individual assignments
 
 `TODO: Design rules for assignments with individual submission, but allowed collaboration/discussion`
 

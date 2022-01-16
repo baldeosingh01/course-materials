@@ -1,5 +1,7 @@
 # Course Materials: Computational Expression, Allegheny College, M1 2022 (CMPSC 100-M1)
 
+![FINAL FANTASY ARPEGGIO](https://www.cs.allegheny.edu/sites/dluman/cmpsc100/img/cmpsc-100-mo-header.png)
+
 This repository hosts materials which describe the structure and operation this section of Computational Expression. Check this space early and often for updates to the syllabus, schedule, and other course governance.
 
 ## Resources
@@ -52,7 +54,7 @@ You will also have the opportunity to learn and practice skills in a programmati
 
 As a capstone to course sessions, you will work as part of your team to work through a problem collaboratively. However, submissions to these problems are expected on an _individual basis_ and should represent individual effort, even if teams are allowed to develop a conceptual approach.
 
-#### Friday sessions
+#### Friday sessions (i.e. Lab)
 
 Our Friday sessions take the place of a lab session in a typical semester. These sessions will build on the smaller pieces of work completed throughout the week. These are individual assignments, though you will come to rely on your table/team for insights, discussion, and troubleshooting.
 
@@ -67,8 +69,11 @@ Our Friday sessions take the place of a lab session in a typical semester. These
 |Day(s) of Week            |Time                |
 |--------------------------|--------------------|
 |Monday - Friday           |12:30 - 3:30 PM     |
+|Sunday     | 6:00 - 9:00 PM| 
 
 * All times EST
+
+The times above describe a range; there may be an occasional few days over the next few weeks where the office hours window changes _slightly_. These are already represented on my calendar.
 
 To book time during any of the above spots, please visit my [office hours appointment calendar](https://chompe.rs/office-hours).
 
@@ -118,9 +123,11 @@ By the end of this course, you will be able to:
 * Learn to adapt to the important, but often accidental, aspects of writing code
 * Demonstrate the ability to communicate, plan, and collaborate as an integral part of the creative process
 
-### Evaluation
+### Governance and evaluation
 
-This course's evaluation and, eventually, grades, are governed by the [Course Contract](CODE_OF_CONDUCT.md).
+This course's evaluation, participation and, eventually, grades, are governed by the [Course Contract](CODE_OF_CONDUCT.md).
+
+This, however, does not abrogate the role of this syllabus document. Provisions here work together with the contract. You should consider the information provided here the basic "givens" of the course.
 
 #### Assignments
 
@@ -129,6 +136,12 @@ All course assignments are assigned and evaluated using the GitHub platform. I w
 #### Assessments
 
 Any assessment in this course is open book, open note, and "open code." Of course, this means that questions I ask may not _directly_ test your memory and, instead, expect application of a concept.
+
+##### Reflections
+
+You will be asked at various points over the course a given week to reflect on connecting your work to general course concepts or to understanding your progress in the course as a whole.
+
+When reflections are assigned, they will be accompanied with a prompt. All reflections should be added to the dedicated reflections repository that we will `clone` in the opening sessions of the course.
 
 ##### Quizzes
 
