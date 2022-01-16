@@ -27,7 +27,7 @@ This module -- at least up to the point where the college requires that I assign
 
 At the end of the module, I have to give you a grade. But, following this contract should take care of that.
 
-In this course, we will rely on a contract to determine what kinds of behaviors lead to learning vis-a-vis a computer science environment. We will spend the opening class sessions of this course working together to identify and codify those things that we will hold ourselves and others accountable to. In fact, this class relies on more than just a sense of community to function: it relies on actual community rules and efforts. I include myself as part of this course community, so this contract also indemnifies _me_ to uphold the behaviors and expectations written into it.
+In this course, we will rely on a contract to determine what kinds of behaviors lead to learning vis-a-vis a computer science environment. We will spend the opening class sessions of this course working together to identify and codify those things that we will hold ourselves and others accountable to. In fact, this class relies on more than just a sense of community to function: it relies on actual community rules and efforts. I include myself as part of this course community, so this contract also indemnifies _me and the course Technical Leaders (TLs)_ to uphold the behaviors and expectations written into it.
 
 So what does all this mean? Perhaps it's important to identify what it _doesn't mean_: this course is not one where you will be able to just "get by." In fact, ungraded contract courses, historically, require _more_ work than graded ones. However, you are rewarded for completing work to a satisfactory degree, a statement which we will use this contract to clarify.
 
@@ -173,6 +173,18 @@ For all co-op assignments, members will fill out a post-assignment assessment to
 #### Individual assignments
 
 `TODO: Design rules for assignments with individual submission, but allowed collaboration/discussion`
+
+### Technical Leaders
+
+This course features the assistance of several peer educators that the department refers to as Technical Leaders (TLs). You should recognize these students as quasi-authorities in this course. While they don't make any kinds of grading decisions, they are all much smarter than the course instructor. They're also much cleverer.
+
+These people are not course resources in the sense that they are inanimate machines (also unlike your instructor). You agree to:
+
+* treat them courteously and with respect
+* not make strict demands of them; their enagagement with the course is a privilege, not a right
+* recognize that their feedback won't give you the "answer"; like instruction in this course, they're excellent resources to help you _reason_
+
+In the event that a conflict arises with a TL, please message the course instructor. Know that any issues that TLs have with students _are reported to me_, and if we need to discuss your engagement with them, the instructor agrees to arbitrate the issue with fairness to all involved.
 
 ### The "Repair Rule" (i.e. Assignment Revision)
 
